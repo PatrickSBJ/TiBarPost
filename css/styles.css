@@ -1,0 +1,20 @@
+h1 {
+
+}
+#tigerImage {
+    display: inline-block;
+    width: 15rem;
+
+}
+#centerContent{
+    text-align: center;
+    vertical-align: middle;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+}
