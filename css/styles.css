@@ -194,7 +194,19 @@ img {
   }
   
 }
-
+#centerContent{
+    text-align: center;
+}
+#shipmentDetails{
+    text-align: center;
+}
+#flightStatus{
+    display: block;
+    text-align: center;
+}
+img#tigerImage {
+    padding-right: 31rem;
+}
 /*  {
 
 }
@@ -203,22 +215,18 @@ img {
     width: 15rem;
 
 }
-#centerContent{
-    text-align: center;
-    vertical-align: middle;
-    transform: translate(-50%, -50%);
-}
+
 /* @keyframes cornerMove{
     from {text-align: center;}
     to {text-align: left;}
     from {vertical-align: middle;}
     to {vertical-align: left;}
 } 
+*/
 footer {
-    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
 
-} */
+} 

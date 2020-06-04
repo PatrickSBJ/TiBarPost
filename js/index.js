@@ -6,5 +6,5 @@ function verifyNumber(){
     }
 }
 function displayShipmentInfo(){
-    document.getElementById("shipmentDetails").innerHTML = "Date of Arrival: June 3rd";
+    document.getElementById("shipmentDetails").innerHTML = "Date of Arrival: May 31st <br />Height: Pretty tall <br /> Weight: Mập";
 }
